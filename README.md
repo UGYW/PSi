@@ -99,4 +99,4 @@ Same idea with tElapsed. Keep it within the recommended range unless you've snuc
 
 If you would like to save the results of the graph, please edit the functions within plot.py. You can also set the frequency of plotting within main.py.
 
-[Link to the Paper Will be Enclosed Once Available... Somewhere...]
+[Link to the Paper: https://open.library.ubc.ca/cIRcle/collections/undergraduateresearch/51869/items/1.0319001]
